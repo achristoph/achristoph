@@ -1,0 +1,26 @@
+{
+  "name": "achristoph",
+  "version": "1.0.3",
+  "description": "My Info",
+  "main": "index.js",
+  "bin": {
+    "achristoph": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/achristoph/achristoph.git"
+  },
+  "author": "Arthur Christoph",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/achristoph/achristoph/issues"
+  },
+  "homepage": "https://www.achristoph.com",
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "^4.0.0"
+  }
+}
